@@ -1,0 +1,167 @@
+{
+  "archive_created": "2026-10-04",
+  "description": "Historical source/report copies and PNGs extracted from saved notebook outputs. Hashes describe the recovered files, not historical execution provenance.",
+  "files": [
+    {
+      "path": "slot_simulation/slot machine.py",
+      "original_filename": "slot machine.py",
+      "sha256": "2052d255c76513f38be884ffe718e40e0db980f1804293c222e3c364f1126d7a",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "slot_simulation/data.py",
+      "original_filename": "data.py",
+      "sha256": "9ad0913ae50e45cb84ad6df17e0183c1504cc042f1247919fab7b34089506d0d",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "slot_simulation/reward_prize_list.py",
+      "original_filename": "reward_prize_list.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "movielens/Homework.ipynb",
+      "original_filename": "Homework.ipynb",
+      "sha256": "030eab766befb64c6b83a10afe71e44ea52a05c9ba0a6b9eea18c8c84a3bb485",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "movielens/Homework_v2.ipynb",
+      "original_filename": "Homework_v2.ipynb",
+      "sha256": "fcc9187fc456d3e4a948b6b8c8af333e3dd1846a735e9fe6c5309d1b39aa21c5",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "movielens/UCB.ipynb",
+      "original_filename": "UCB.ipynb",
+      "sha256": "31e68e040dd345821ba220d912459a2714c2467572086dc03ef7104259c32248",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "movielens/TS.ipynb",
+      "original_filename": "TS.ipynb",
+      "sha256": "49a1504f74960f976ed531c8e9fd7543752932e722dc301a0cc71b16db680d41",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "movielens/ETC.ipynb",
+      "original_filename": "ETC.ipynb",
+      "sha256": "12ea56d600a1948b37cfd4cac9d11669582d907190e1e375beaaac817d8be107",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "movielens/Multi_processing_Q2.py",
+      "original_filename": "Multi_processing_Q2.py",
+      "sha256": "baac3d1e64da7e32e2ead574da984a29f022762e915eef98214818bc84817b73",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "illustrations/example_curve_etc.py",
+      "original_filename": "example_curve_etc.py",
+      "sha256": "bca60b07562879b9306b96b1b16f52a87fd341e4a99ff7d6d8aab069c81c1863",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "illustrations/example_curve_ts.py",
+      "original_filename": "example_curve_ts.py",
+      "sha256": "894a0521feb3db7726383f79b931b7feafffc7c59f888f9ba7004420c5c8accc",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "illustrations/example_curve_ucb.py",
+      "original_filename": "example_curve_ucb.py",
+      "sha256": "9d1b88690072a8cd5a58e0411bd736f769cc74ad1c35357e7671bdba1b7629a4",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "reports/Homework.html",
+      "original_filename": "Homework.html",
+      "sha256": "e453eaec7bbe5d5d59ad41617fc93cd98d221dfbab31061bec6a4de4bbaea59a",
+      "kind": "historical_report_with_local_paths_redacted",
+      "original_sha256": "afdd0827bf054f74cc28a1c5ead70e42004834d7b8e8a40950546129aea7651c",
+      "change": "Two user-home paths in saved library warnings replaced with <user-home>/. Code and figures unchanged."
+    },
+    {
+      "path": "reports/Homework(1) - Jupyter Notebook.pdf",
+      "original_filename": "Homework(1) - Jupyter Notebook.pdf",
+      "sha256": "9914e32b4a96f009d718b760fb2af3c45023eb8cc3bdee103335d66133aabb2c",
+      "kind": "historical_source_or_report"
+    },
+    {
+      "path": "results/figures/ETC-cell-02-output-00.png",
+      "sha256": "238b8b89d2d84a48ecb0d7d6876c961657e2cca85dc471b17b21f9fa6a988a8e",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework-cell-05-output-00.png",
+      "sha256": "be7c270128ae4ea1cde671ab5bae9c9d2b26b7eaf3a925cfa268e6f523829887",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework-cell-09-output-00.png",
+      "sha256": "9df6a737d4a17862a971eb07f9341d17bb8b52a429213f08850692c095ac8961",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework-cell-15-output-00.png",
+      "sha256": "7fa221c620782c4466f6a6cacd3be4e5a66ec7b2f2a3433b278fa2dc4b5590ff",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework-cell-19-output-00.png",
+      "sha256": "86e6c570c88e4f660639c35992dac4a0a0322ca9a41abeafdd7b4c23d8fa5ddc",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework-cell-24-output-00.png",
+      "sha256": "400f3566e1b17a2e0ecc6014da3448bd1add82951cd3a3c7151141a7a11ec0dd",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework-cell-27-output-00.png",
+      "sha256": "38a5042d90ed77b7910e59ba655bb3a42ade22c4a5e4b8d59cc35288785694c8",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework_v2-cell-05-output-00.png",
+      "sha256": "be7c270128ae4ea1cde671ab5bae9c9d2b26b7eaf3a925cfa268e6f523829887",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework_v2-cell-09-output-00.png",
+      "sha256": "f15ebd083856928192c5da2c70060667de8127b3bc6fc58c962ebf0605723323",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework_v2-cell-15-output-00.png",
+      "sha256": "80dfc6480d0477d5797856bdb4eb1899eb446db4da9efe3bc5773ff071fa51b8",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework_v2-cell-19-output-00.png",
+      "sha256": "51a455748c4218ae65447f8c51e675f154bfb2af393f295bf2c75ce8095ee1ee",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework_v2-cell-25-output-00.png",
+      "sha256": "16ec570d316d8faeb006da2e3f5a9366488716b81708e2554bead9df364add7c",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/Homework_v2-cell-29-output-00.png",
+      "sha256": "3f75aa114b12659126081421b3969cf974538d8579cf09412d93b2a2b900e72c",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/TS-cell-01-output-00.png",
+      "sha256": "0a7d77b90782c947a95fedab57f4dcaab6ef466132c75f827c7b0e28522d8176",
+      "kind": "extracted_notebook_png"
+    },
+    {
+      "path": "results/figures/UCB-cell-02-output-00.png",
+      "sha256": "bd3c780c9a95b8416a0490148cf4d33f7633ec944966565810835b308b24da15",
+      "kind": "extracted_notebook_png"
+    }
+  ]
+}

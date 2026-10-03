@@ -1,0 +1,8 @@
+# Preserve recovered bytes (including the original script's CRLF line endings).
+* text=auto
+slot_simulation/** -text
+movielens/*.py -text
+movielens/*.ipynb -text
+illustrations/*.py -text
+reports/** -text
+results/figures/*.png binary

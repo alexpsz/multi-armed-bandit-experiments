@@ -1,0 +1,6 @@
+# Imported packages; the original 2023 versions were not recorded.
+numpy
+pandas
+matplotlib
+scipy
+notebook
